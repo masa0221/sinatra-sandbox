@@ -7,11 +7,11 @@ $ bundle install --path ./vendor
 
 ### Local
 ```sh
-$ ruckup
+$ rackup -p 4567
 ```
 
 Open your blowser
-http://localhost:9292
+http://localhost:4567/
 
 ### heroku
 
